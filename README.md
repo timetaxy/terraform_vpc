@@ -5,3 +5,6 @@
 3. Subnet 만들기
 4. Routing Table 만들기
 5. Routing Table에 Subnet 적용하기
+
+
+출처 : https://teichae.tistory.com
